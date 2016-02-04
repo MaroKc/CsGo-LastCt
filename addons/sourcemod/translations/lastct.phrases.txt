@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"line1" 
+	{
+		"en"  "{orchid}==================="
+	}
+	"line2" 
+	{
+		"en"  "{orchid}====={darkred} LAST CT {orchid}====="
+	}
+	"line3" 
+	{
+		"en"  "{orchid}==================="
+	}
+	"CenterMessagge" 
+	{
+		"en"  "LAST CT"
+	}
+	"MenuMessagge" 
+	{
+		"en"  "LAST CT"
+	}
+}
